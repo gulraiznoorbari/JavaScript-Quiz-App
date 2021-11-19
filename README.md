@@ -1,4 +1,6 @@
-## Quiz App React
+<div align="center">
+<h1>Quiz App React</h1>
+</div>
 
 ## Demo
 
