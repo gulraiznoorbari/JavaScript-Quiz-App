@@ -1,5 +1,25 @@
-# JavaScript-Quiz-App
+## Quiz App React
 
-This project was made as a part of my internship at Interns Pakistan.
+## Demo
 
-It is a Simple JavaScript Quiz App made using Reactjs, it reads data(questions & answers) from a js file. On the basis of how many qquestions you get right it displays pass/fail status.
+https://user-images.githubusercontent.com/78252747/142648141-94d199ab-232f-4e78-ac97-4335b58acf00.mp4
+
+## Author
+
+You can get in touch with me on my LinkedIn Profile:
+
+#### Gulraiz Noor Bari
+
+[![LinkedIn Link](https://img.shields.io/badge/Connect-gulraiznoorbari-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/gulraiznoorbari)
+<br />
+[![Twitter Link](https://img.shields.io/badge/Follow-gulraiznoorbari-blue.svg?logo=twitter&longCache=true&style=social&label=Follow)](https://twitter.com/gulraiznoorbari)
+
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-gulraiznoorbari-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/gulraiznoorbari)
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+## Contributions Welcome
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
+
+If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
